@@ -1,0 +1,2 @@
+# EconometriaFinanciera_MagisterFinanzasWK
+Curso introductorio a Econometría Financiera
