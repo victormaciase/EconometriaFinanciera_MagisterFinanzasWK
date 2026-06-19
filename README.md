@@ -1,2 +1,2 @@
 # EconometriaFinanciera_MagisterFinanzasWK
-Curso introductorio a Econometría Financiera
+Curso de fundamentos de econometría aplicados al análisis de datos financieros.
