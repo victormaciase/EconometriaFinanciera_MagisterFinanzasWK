@@ -33,17 +33,13 @@ Se utiliza el símbolo de almohadilla o hashtag (`#`). Cuantos más pongas, más
  
 ### 4. Enlaces e Imágenes
 
-Enlaces: [Texto del enlace](URL). Por ejemplo, [FEN Universidad de Chile](https://fen.uchile.cl)
+Enlaces: [FEN Universidad de Chile](https://fen.uchile.cl)
 
 Imágenes: Es igual que el enlace, pero con un signo de exclamación al principio: ![Texto alternativo](URL_de_la_imagen)
 
 ### 5. Bloques de código
 Si quieres mostrar código de programación o comandos sin que se ejecuten, lo envuelves en acentos graves (`). Para una sola línea usas uno, y para un bloque entero usas tres (```).
 
-4. Enlaces e Imágenes
-Enlaces: [Texto del enlace](URL) -> [Google](https://www.google.com)
-
-Imágenes: Es igual que el enlace, pero con un signo de exclamación al principio: ![Texto alternativo](URL_de_la_imagen)
 
 ## ¿Por qué es popular?
 
