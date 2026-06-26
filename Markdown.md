@@ -33,7 +33,7 @@ Se utiliza el símbolo de almohadilla o hashtag (`#`). Cuantos más pongas, más
  
 ### 4. Enlaces e Imágenes
 
-Enlaces: [Texto del enlace](URL) -> [Google](https://www.google.com)
+Enlaces: [FEN Universidad de Chile](https://fen.uchile.cl)
 
 Imágenes: Es igual que el enlace, pero con un signo de exclamación al principio: ![Texto alternativo](URL_de_la_imagen)
 
