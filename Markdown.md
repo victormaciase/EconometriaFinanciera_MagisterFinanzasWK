@@ -31,11 +31,9 @@ Se utiliza el símbolo de hashtag (`#`). Cuantos más pongas, más pequeño es e
   1. Primero
   2. Segundo
  
-### 4. Enlaces e Imágenes
+### 4. Enlaces 
 
 Enlaces: [FEN Universidad de Chile](https://fen.uchile.cl)
-
-Imágenes: Es igual que el enlace, pero con un signo de exclamación al principio: ![Texto alternativo](URL_de_la_imagen)
 
 ### 5. Bloques de código
 Si quieres mostrar código de programación o comandos sin que se ejecuten, lo envuelves en acentos graves (`). Para una sola línea usas uno, y para un bloque entero usas tres (```).
@@ -43,7 +41,7 @@ Si quieres mostrar código de programación o comandos sin que se ejecuten, lo e
 
 ## ¿Por qué es popular?
 
-**Es universal:** Funciona en cualquier editor de texto básico. No necesitas un software pesado como Word.
+**Es universal:** Funciona en cualquier editor de texto básico. No necesitas un software como Word.
 
 **No dependes del mouse:** Puedes dar un formato atractivo a un documento entero sin despegar las manos del teclado.
 
