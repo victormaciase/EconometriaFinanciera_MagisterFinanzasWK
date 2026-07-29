@@ -11,7 +11,7 @@ En lugar de usar menús con botones de "Negrita" o "Cursiva", usas caracteres de
 Aquí tienes los comandos más comunes:
 
 ### 1. Títulos (Encabezados)
-Se utiliza el símbolo de almohadilla o hashtag (`#`). Cuantos más pongas, más pequeño es el título (del 1 al 6).
+Se utiliza el símbolo de hashtag (`#`). Cuantos más pongas, más pequeño es el título (del 1 al 6).
 * `# Título 1` (El más grande)
 * `## Título 2`
 * `### Título 3`
@@ -19,7 +19,7 @@ Se utiliza el símbolo de almohadilla o hashtag (`#`). Cuantos más pongas, más
 ### 2. Énfasis (Formato de texto)
 * Para **negrita**, envuelves el texto en dos asteriscos: `**texto en negrita**`
 * Para *cursiva*, usas un asterisco o guion bajo: `*texto en cursiva*` o `_texto en cursiva_`
-* Para ~~tachar~~, usas dos virgulillas: `~~texto tachado~~`
+* Para ~~tachar~~, usas dos `~~`: `~~texto tachado~~`
 
 ### 3. Listas
 * **Listas no ordenadas:** Usas un asterisco, un guion o un signo de más.
