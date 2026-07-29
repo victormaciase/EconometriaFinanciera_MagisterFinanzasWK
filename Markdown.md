@@ -1,6 +1,6 @@
 # ¿Qué es Markdown?
 
-**Markdown** es un lenguaje de marcado ligero que sirve para aplicar formato a un texto utilizando símbolos muy sencillos. Fue creado en 2004 por John Gruber y Aaron Swartz con una filosofía muy clara: **que el texto sea fácil de escribir y, sobre todo, fácil de leer** en su forma pura, sin que las etiquetas estorben (a diferencia del código HTML o XML).
+**Markdown** es un lenguaje de marcado ligero que sirve para aplicar formato a un texto utilizando símbolos muy sencillos. 
 
 ---
 
