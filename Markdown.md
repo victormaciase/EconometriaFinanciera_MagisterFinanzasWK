@@ -4,7 +4,7 @@
 
 ---
 
-## ¿Cómo funciona? (Ejemplos prácticos)
+## ¿Cómo funciona?
 
 En lugar de usar menús con botones de "Negrita" o "Cursiva", usas caracteres de tu teclado. Cuando el texto se procesa, se convierte automáticamente en HTML limpio.
 
