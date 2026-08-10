@@ -10,5 +10,7 @@
 
 ## 🛠️ CONSIDERACIONES TÉCNICAS Y DESARROLLO
 
-1. No olvides cambiar la semilla *(seed)* en `np.random.seed(####)`. Usa los 4 últimos dígitos de tu Rut sin el dígito verificador
+1. No olvides cambiar la semilla *(seed)* en `np.random.seed(####)`. Usa los 4 últimos dígitos de tu Rut sin el dígito verificador.
+2. Responde debajo de cada pregunta del archivo que se encuentra en esta misma carpeta. Especifica el código en Python usado para responder cada pregunta, en caso de que se requiera cambiar el código.
+3. Cuando la pregunta pida la *probabilidad teórica*, deberás especificar el código en Python usado. Por ejemplo, podrías haber usado `stats.norm.cdf(2, loc = 10, scale = 3)`  
 
