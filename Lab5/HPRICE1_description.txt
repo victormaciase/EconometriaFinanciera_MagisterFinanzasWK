@@ -1,5 +1,7 @@
 HPRICE1.DES
 
+Estos datos son usados en el texto "Introducción a la Econometría: un enfoque moderno" de Jeffrey Wooldridge. 
+
 price     assess    bdrms     lotsize   sqrft     colonial  lprice    lassess  
 llotsize  lsqrft    
 
