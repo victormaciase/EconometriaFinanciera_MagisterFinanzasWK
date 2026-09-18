@@ -6,3 +6,5 @@
 
 **FORMATO:** Debes subir el archivo de Jupyter notebook con el apellido paterno de cada integrante. Por ejemplo, **AndradePozo.ipynb** 
 
+**Nota:** *Los datos fueron descargados el 17 de Septiembre de 2026 desde Yahoo Finance.*
+
