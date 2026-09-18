@@ -8,3 +8,16 @@
 
 **Nota:** *Los datos fueron descargados el 17 de Septiembre de 2026 desde Yahoo Finance. Sólo se incluyeron a las empresas que no tienen datos faltantes en ninguna de las variables incluidas en el dataset.*
 
+El conjunto de datos incluye las siguientes variables:
+
+*   **Company Name**: Nombre de la empresa.
+*   **Ticker**: Símbolo bursátil de la empresa.
+*   **TrailingPER**: Razón Precio/Utilidad (PE) de los últimos doce meses (Trailing Twelve Months - TTM).
+*   **ForwardPER**: Razón Precio/Utilidad (PE) a futuro, basada en las estimaciones de ganancias futuras.
+*   **EPSGrowth**: Tasa de crecimiento de las utilidades por acción (*earnings per share, EPS*).
+*   **ROE**: Retorno sobre el patrimonio (Return on Equity), que mide la rentabilidad que obtienen las empresas sobre el patrimonio.
+*   **PayoutRatio**: Relación de pago de dividendos, que indica la proporción de las utilidades que una empresa paga como dividendos a sus accionistas.
+*   **MarketCap**: Capitalización de mercado de la empresa.
+*   **Sector**: Sector industrial al que pertenece la empresa.
+*   **Beta**: Medida del riesgo sistemático de una acción.
+*   **DebtToEquity**: Relación deuda/capital, un indicador de apalancamiento que mide el monto de financiamiento proporcionado por los acreedores en relación con el proporcionado por los accionistas.
