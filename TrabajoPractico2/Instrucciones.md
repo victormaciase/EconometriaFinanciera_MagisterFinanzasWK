@@ -26,7 +26,6 @@ Por ejemplo,
 
 **AMAZON (AMZN):**
 
-*Precio:* 253.71
-*EPS(TTM):* 12.43
+*Precio:* 253.71 | *EPS(TTM):* 12.43
 
 $PER =\frac{253.71}{12.43}=20.41$ 
