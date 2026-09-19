@@ -21,3 +21,12 @@ El conjunto de datos incluye las siguientes variables:
 *   **Sector**: Sector industrial al que pertenece la empresa.
 *   **Beta**: Medida del riesgo sistemático de una acción.
 *   **DebtToEquity**: Relación deuda/capital, un indicador de apalancamiento que mide el monto de financiamiento proporcionado por los acreedores en relación con el proporcionado por los accionistas.
+
+Por ejemplo,
+
+**(AMAZON) AMZN:**
+
+*Precio:* 253.71
+*EPS(TTM):* 12.43
+
+$PER =\frac{253.71}{12.43}=20.41$ 
