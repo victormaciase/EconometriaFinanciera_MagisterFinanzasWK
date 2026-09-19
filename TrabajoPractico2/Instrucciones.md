@@ -24,7 +24,7 @@ El conjunto de datos incluye las siguientes variables:
 
 Por ejemplo,
 
-**(AMAZON) AMZN:**
+**AMAZON (AMZN):**
 
 *Precio:* 253.71
 *EPS(TTM):* 12.43
