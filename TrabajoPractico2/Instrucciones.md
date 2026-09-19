@@ -15,7 +15,7 @@ El conjunto de datos incluye las siguientes variables:
 *   **TrailingPER**: Razón Precio/Utilidad (PE) de los últimos doce meses (Trailing Twelve Months - TTM).
 *   **ForwardPER**: Razón Precio/Utilidad (PE) a futuro, basada en las estimaciones de ganancias futuras.
 *   **EPSGrowth**: Tasa de crecimiento de las utilidades por acción (*earnings per share, EPS*).
-*   **ROE**: Retorno sobre el patrimonio (Return on Equity), que mide la rentabilidad que obtienen las empresas sobre el patrimonio.
+*   **ROE**: Retorno sobre el patrimonio (Return on Equity), que mide la rentabilidad que obtienen las empresas sobre el patrimonio. Multiplica el valor por 100 para obtener el %.
 *   **PayoutRatio**: Relación de pago de dividendos, que indica la proporción de las utilidades que una empresa paga como dividendos a sus accionistas.
 *   **MarketCap**: Capitalización de mercado de la empresa.
 *   **Sector**: Sector industrial al que pertenece la empresa.
