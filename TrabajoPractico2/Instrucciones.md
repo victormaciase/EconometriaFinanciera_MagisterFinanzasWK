@@ -20,7 +20,7 @@ El conjunto de datos incluye las siguientes variables:
 *   **MarketCap**: Capitalización de mercado de la empresa.
 *   **Sector**: Sector industrial al que pertenece la empresa.
 *   **Beta**: Medida del riesgo sistemático de una acción.
-*   **DebtToEquity**: Relación deuda/capital, un indicador de apalancamiento que mide el monto de financiamiento proporcionado por los acreedores en relación con el proporcionado por los accionistas.
+*   **DebtToEquity**: Relación deuda/capital, un indicador de apalancamiento que mide el monto de financiamiento proporcionado por los acreedores en relación con el proporcionado por los accionistas *(en porcentaje)*.
 
 Por ejemplo,
 
