@@ -1,6 +1,6 @@
 **Default**
 
-Corresponde a datos simulados correspondientes a 10000 clientes de una compañía de tarjetas de crédito.
+Corresponde a datos simulados correspondientes a 10000 clientes de una compañía de tarjetas de crédito. [Introduction to Statistical Learning](https://www.statlearning.com/)
 
 **default:** variable categórica que que indica si el cliente ha pagado o no su deuda
 
