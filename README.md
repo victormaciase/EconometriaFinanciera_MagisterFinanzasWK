@@ -1,7 +1,7 @@
 # Econometría Financiera
 Curso de fundamentos de econometría aplicados al análisis de datos financieros.
 
-El análisis de los datos y construcción de modelos se realiza usando Python.
+El análisis de los datos y la construcción de modelos se realiza usando Python.
 
 Los tópicos que serán cubiertos incluyen: 
 1. Regresión lineal
