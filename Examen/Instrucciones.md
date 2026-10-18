@@ -1,6 +1,6 @@
 ## INSTRUCCIONES GENERALES
 
-**FECHA DE ENTREGA:** 01 de Octubre 2026
+**FECHA DE ENTREGA:** 21 de Octubre 2026 hasta las 10:00 AM
 
 **NÚMERO DE INTEGRANTES:** Podrás desarrollar este trabajo individualmente o en grupos de 2 personas.
 
